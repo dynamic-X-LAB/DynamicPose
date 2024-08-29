@@ -1,1 +1,13 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+testphoto38_1_2_768x512_3_1334.mov filter=lfs diff=lfs merge=lfs -text
+xm_4_1_768x512_3_2213.mov filter=lfs diff=lfs merge=lfs -text
+dancebear.png filter=lfs diff=lfs merge=lfs -text
+testphoto30_1_1_768x512_3_1334.mov filter=lfs diff=lfs merge=lfs -text
+testphoto27_1_1_768x512_3_1333.mov filter=lfs diff=lfs merge=lfs -text
+testphoto4_3_1_768x512_3_1333.mov filter=lfs diff=lfs merge=lfs -text
+testphoto89_3_1_768x512_3_1334.mov filter=lfs diff=lfs merge=lfs -text
+testphoto8_4_1_768x512_3_1333.mov filter=lfs diff=lfs merge=lfs -text
+testphoto92_4_1_768x512_3_1334.mov filter=lfs diff=lfs merge=lfs -text
+rick_1_1_768x512_3_2213.mov filter=lfs diff=lfs merge=lfs -text
+testphoto26_1_1_768x512_3_1333.mov filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
