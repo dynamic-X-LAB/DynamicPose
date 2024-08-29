@@ -68,10 +68,6 @@ We are committed to providing the complete source code for free and regularly up
              <source src="assets/testphoto30_1_1_768x512_3_1334.mov" type="video/mov">Your browser does not support the video tag.
          </video>
     </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/25a99873-8b93-4fdc-a25a-f30a3cdcdd59" muted="false"></video>
-    </td>
-</tr>
 </table>
 
  
