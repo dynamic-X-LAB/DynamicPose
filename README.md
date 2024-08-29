@@ -59,18 +59,7 @@ We are committed to providing the complete source code for free and regularly up
         <video controls autoplay loop src="https://github.com/user-attachments/assets/26bb42ea-63f1-4541-b8a4-1e25da26e585" muted="false"></video>
     </td>
 </tr>
-</table>
-
-<table class="center">
-<tr>
-    <td width=50% style="border: none">
-         <video controls autoplay>
-             <source src="https://dynamic-x-lab.github.io/DynamicPose/assets/testphoto30_1_1_768x512_3_1334.mov" type="video/mov">Your browser does not support the video tag.
-         </video>
-    </td>
-</table>
-
- 
+</table> 
 
 
 
