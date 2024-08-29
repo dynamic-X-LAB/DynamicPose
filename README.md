@@ -47,17 +47,12 @@ We are committed to providing the complete source code for free and regularly up
     </td>
 </tr>
 
-
-
-
-
 <tr>
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/f5dfdd26-eaae-4028-97ed-3d6cff33cbb1" muted="false"></video>
     </td>
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/48404b0f-8cca-4448-9ad6-91cfb8111acf" muted="false"></video>
-
     </td>
 </tr>
 
