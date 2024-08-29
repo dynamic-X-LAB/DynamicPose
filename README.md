@@ -35,9 +35,6 @@ We are committed to providing the complete source code for free and regularly up
 
 # Demos 
 <table class="center">
-
-
-
 <tr>
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/f11ffe9e-9922-4073-9283-80ff0d618d63" muted="false"></video>
@@ -46,7 +43,35 @@ We are committed to providing the complete source code for free and regularly up
         <video controls autoplay loop src="https://github.com/user-attachments/assets/25a99873-8b93-4fdc-a25a-f30a3cdcdd59" muted="false"></video>
     </td>
 </tr>
+<tr>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/f5dfdd26-eaae-4028-97ed-3d6cff33cbb1" muted="false"></video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/48404b0f-8cca-4448-9ad6-91cfb8111acf" muted="false"></video>
+    </td>
+</tr>
+<tr>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/4f15465b-6347-4262-82de-659c3bc10ec2" muted="false"></video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/26bb42ea-63f1-4541-b8a4-1e25da26e585" muted="false"></video>
+    </td>
+</tr>
+</table>
 
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+         <video controls autoplay>
+             <source src="assets/testphoto30_1_1_768x512_3_1334.mov" type="video/mp4">Your browser does not support the video tag.
+         </video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/25a99873-8b93-4fdc-a25a-f30a3cdcdd59" muted="false"></video>
+    </td>
+</tr>
 <tr>
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/f5dfdd26-eaae-4028-97ed-3d6cff33cbb1" muted="false"></video>
@@ -56,19 +81,10 @@ We are committed to providing the complete source code for free and regularly up
     </td>
 </tr>
 
-<tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/4f15465b-6347-4262-82de-659c3bc10ec2" muted="false"></video>
-    </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/26bb42ea-63f1-4541-b8a4-1e25da26e585" muted="false"></video>
-    </td>
-</tr>
-
-
-
-
 </table>
+
+ 
+
 
 
 
