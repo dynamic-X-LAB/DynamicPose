@@ -41,7 +41,6 @@ We are committed to providing the complete source code for free and regularly up
 <tr>
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/f11ffe9e-9922-4073-9283-80ff0d618d63" muted="false"></video>
-
     </td>
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/25a99873-8b93-4fdc-a25a-f30a3cdcdd59" muted="false"></video>
