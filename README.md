@@ -191,7 +191,7 @@ This work also has some limitations, which are outlined below:
 # Citation
 ```bibtex
 @software{DynamicPose,
-  author = {Yanqin Chen, Changhao Qiao, Zou Bin, Dejia Song},
+  author = {Yanqin Chen, Changhao Qiao, Bin Zou, Dejia Song},
   title = {DynamicPose: A effective image-to-video framework for portrait animation driven by human pose sequences},
   month = {August},
   year = {2024},
