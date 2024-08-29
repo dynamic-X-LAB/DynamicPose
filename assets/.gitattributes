@@ -11,3 +11,4 @@ testphoto92_4_1_768x512_3_1334.mov filter=lfs diff=lfs merge=lfs -text
 rick_1_1_768x512_3_2213.mov filter=lfs diff=lfs merge=lfs -text
 testphoto26_1_1_768x512_3_1333.mov filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
+rick_1_1_768x512_3_2213.mp4 filter=lfs diff=lfs merge=lfs -text
