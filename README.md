@@ -59,6 +59,16 @@ We are committed to providing the complete source code for free and regularly up
         <video controls autoplay loop src="https://github.com/user-attachments/assets/26bb42ea-63f1-4541-b8a4-1e25da26e585" muted="false"></video>
     </td>
 </tr>
+    
+<tr>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/af82d274-024a-49c2-98ae-2912e93c7d9c" muted="false"></video>
+    </td>
+    <td width=50% style="border: none">
+        <video controls autoplay loop src="https://github.com/user-attachments/assets/b876e02d-7eec-4773-bf6b-2206385a3b4a" muted="false"></video>
+    </td>
+</tr>
+
 </table> 
 
 
