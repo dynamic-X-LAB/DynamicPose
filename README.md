@@ -65,7 +65,7 @@ We are committed to providing the complete source code for free and regularly up
 <tr>
     <td width=50% style="border: none">
          <video controls autoplay>
-             <source src="=https://dynamic-x-lab.github.io/DynamicPose/assets/testphoto30_1_1_768x512_3_1334.mov" type="video/mov">Your browser does not support the video tag.
+             <source src="https://dynamic-x-lab.github.io/DynamicPose/assets/testphoto30_1_1_768x512_3_1334.mov" type="video/mov">Your browser does not support the video tag.
          </video>
     </td>
 </table>
