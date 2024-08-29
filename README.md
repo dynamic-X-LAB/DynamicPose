@@ -98,7 +98,7 @@ You can download weights manually as follows.
 
 **Manually downloading**: You can also download weights manually, which has some steps:
 
-1. Download our trained [weights](https://huggingface.co/DynamicPose/tree/main), which include four parts: `denoising_unet.pth`, `reference_unet.pth`, `pose_guider.pth` and `motion_module.pth`.
+1. Download our trained [weights](https://huggingface.co/DynamicXLAB/DynamicPose/tree/main), which include four parts: `denoising_unet.pth`, `reference_unet.pth`, `pose_guider.pth` and `motion_module.pth`.
 
 2. Download pretrained weight of based models and other components: 
     - [StableDiffusion V1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
