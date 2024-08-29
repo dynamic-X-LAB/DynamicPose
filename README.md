@@ -65,22 +65,13 @@ We are committed to providing the complete source code for free and regularly up
 <tr>
     <td width=50% style="border: none">
          <video controls autoplay>
-             <source src="assets/testphoto30_1_1_768x512_3_1334.mov" type="video/mp4">Your browser does not support the video tag.
+             <source src="assets/testphoto30_1_1_768x512_3_1334.mov" type="video/mov">Your browser does not support the video tag.
          </video>
     </td>
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/user-attachments/assets/25a99873-8b93-4fdc-a25a-f30a3cdcdd59" muted="false"></video>
     </td>
 </tr>
-<tr>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/f5dfdd26-eaae-4028-97ed-3d6cff33cbb1" muted="false"></video>
-    </td>
-    <td width=50% style="border: none">
-        <video controls autoplay loop src="https://github.com/user-attachments/assets/48404b0f-8cca-4448-9ad6-91cfb8111acf" muted="false"></video>
-    </td>
-</tr>
-
 </table>
 
  
