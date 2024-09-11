@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/dancebear.png" width="100"/>
+    <img src="https://github.com/user-attachments/assets/9fb91d50-2101-4721-924a-6347d8f9a881" width="100"/>
 </p>
 
 
