@@ -28,7 +28,7 @@ We are committed to providing the complete source code for free and regularly up
 
 - [x] Inference codes and pretrained weights
 - [x] Release pose server based FaseAPI and pose align algorithm.
-- [ ] Comfyui of DynamicPose.
+- [x] Comfyui of DynamicPose.
 - [ ] Huggingface Gradio demo.
 - [ ] Data cleaning and preprocessing pipeline.
 - [ ] Training scripts.
@@ -166,6 +166,9 @@ python data_prepare/video2pose.py path/to/ref/images path/to/save/results image 
 python data_prepare/video2pose.py path/to/tgt/videos path/to/save/results video #video
 ```
 
+# Community Resources
+### ComfyUI
+-[DynamicPose-Comfyui](https://github.com/Bin-sam/DynamicPose-ComfyUI)
 
 # Limitation
 This work also has some limitations, which are outlined below:
